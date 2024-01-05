@@ -1,2 +1,2 @@
 # Chat
-A sort chat using C++
+A short chat using C++
